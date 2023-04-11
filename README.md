@@ -13,7 +13,7 @@
 <h3>Dashboard result:</h3>
 <h4>Data Manage Relationship</h4>
 <p align="center"> 
-<img src=supermarket1.png" class="img-fluid" alt="">  
+<img src="supermarket3.png" class="img-fluid" alt="">  
 </p>
 <h4>Page Dashboard</h4>
 <p align="center"> 
