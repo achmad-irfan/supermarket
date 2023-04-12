@@ -24,5 +24,8 @@
 <img src="supermarket2.png" class="img-fluid" alt="">  
 </p>
 <h3>Insight and Recomendation:</h3>
-
+<p> - Quality of home and lifestyle category must be improved because it have the lowest rating </p>
+<p> - Total gross in every category is almost equal </p>
+<p> - Based on chart, the more quantity of product , more gross income so it has positive output </p>
+<p> - For Category Electronic accessories, although  it has most quantity of product but it give least gross income </p>
 
