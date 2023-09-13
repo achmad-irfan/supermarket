@@ -5,7 +5,7 @@
 <h3> Background Project :</h3>
 <p>I am a data analyst in a supermarket and my co-partner give a dataset to analyze and presence it to the CEO and manager</p>
 <h3>Purpose:</h3>
-<p>Make a power BI dashboard and give insight and recomendation. </p>
+<p>Make a power BI dashboard and give insight and recomendation for bussiness. </p>
 <h3>Dataset:</h3>
 <p>In this project, it used 1 files excel supermarket_sales_dataset that contain 4 sheet, transaction_table, payment_table,product_category_table,and branch_table </p>
 <p> Please click this link to look the dataset: <a href="https://docs.google.com/spreadsheets/d/1EMQA-mbT9WaHsyl9ZqNQD6ba1GnjiueX/edit?usp=sharing&ouid=117100138167330558044&rtpof=true&sd=true">supermarket sales dataset</a></p>
